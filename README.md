@@ -1,2 +1,2 @@
-# skewl
-Online crowdsourced study guide wiki
+# flask_login
+basic login for flask application. Uses a simple database library.
